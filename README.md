@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Vimalan+S" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Yoo+👋+I'm+Vimalan+S" alt="Typing SVG" /></h1>
 
 <div align="center">
 
@@ -60,5 +60,5 @@
 <div align="center">
 
 ```bash
-# Thank you for visiting
+### Thank you for visiting
 # Star the repo if you like the vibe ⭐
